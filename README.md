@@ -10,4 +10,4 @@ The challenge consists in making the following changes to the CSV then to save t
 2. Extract the year from `webPublicationDate` into a new column named `year`
 3. Format the column headers to snake_case
 
-This repository doesn't come with a `requirements.txt`; the only two packages required to run the script are `requests`, `pandas` and `numpy`.
+This repository doesn't come with a `requirements.txt`; the only packages required to run the script are `requests`, `pandas` and `numpy`.
